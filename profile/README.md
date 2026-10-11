@@ -1,9 +1,5 @@
 <div align="center">
-
-<a href="https://www.cedartechsolutions.ca">
-  <img src="https://www.cedartechsolutions.ca/logo.png" alt="Cedar Tech Solutions" width="96" height="96">
-</a>
-
+  
 # Cedar Tech Solutions
 
 **An independent technology company in Ontario, Canada, building consumer software and providing hands-on computer services.**
